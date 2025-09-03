@@ -14,8 +14,8 @@ OcclusionCullingSettings:
 RenderSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 10
-  m_Fog: 0
-  m_FogColor: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  m_Fog: 1
+  m_FogColor: {r: 0.1981132, g: 0.1981132, b: 0.1981132, a: 1}
   m_FogMode: 2
   m_FogDensity: 0.047
   m_LinearFogStart: -33.8
@@ -616,6 +616,21 @@ VisualEffect:
       - m_Value: 0
         m_Name: Ring1_Progress
         m_Overridden: 1
+      - m_Value: 0
+        m_Name: Ring2_Progress
+        m_Overridden: 1
+      - m_Value: 0.7
+        m_Name: Ring1_Size
+        m_Overridden: 1
+      - m_Value: 0.5
+        m_Name: Ring2_Size
+        m_Overridden: 1
+      - m_Value: 0.3
+        m_Name: Ring3_Size
+        m_Overridden: 1
+      - m_Value: 0.48
+        m_Name: Ring3_Progress
+        m_Overridden: 1
     m_Vector2f:
       m_Array: []
     m_Vector3f:
@@ -1010,6 +1025,10 @@ PlayableDirector:
   - key: {fileID: 3021211568437103735, guid: 7be61450138da3b4f9f8a969a736395b, type: 2}
     value: {fileID: 434940699}
   - key: {fileID: -451179690243549115, guid: 7be61450138da3b4f9f8a969a736395b, type: 2}
+    value: {fileID: 434940699}
+  - key: {fileID: 9041666137201265212, guid: 7be61450138da3b4f9f8a969a736395b, type: 2}
+    value: {fileID: 434940699}
+  - key: {fileID: 7932837769248325383, guid: 7be61450138da3b4f9f8a969a736395b, type: 2}
     value: {fileID: 434940699}
   m_ExposedReferences:
     m_References: []
