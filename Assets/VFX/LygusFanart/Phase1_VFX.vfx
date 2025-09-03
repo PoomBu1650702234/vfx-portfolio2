@@ -475,7 +475,7 @@ MonoBehaviour:
   - name: FloorCube
     collapsed: 1
   - name: Ring
-    collapsed: 0
+    collapsed: 1
   uiBounds:
     serializedVersion: 2
     x: -1267
@@ -5583,7 +5583,7 @@ MonoBehaviour:
   - {fileID: 8926484042661615213}
   - {fileID: 8926484042661615937}
   m_OutputSlots: []
-  m_Label: Inside Cube Ring
+  m_Label: Inside Cube Ring 1
   m_Data: {fileID: 8926484042661615013}
   m_InputFlowSlot:
   - link:
@@ -6302,7 +6302,7 @@ MonoBehaviour:
   - {fileID: 8926484042661615093}
   - {fileID: 8926484042661615094}
   m_OutputSlots: []
-  m_Label: Cube Ring
+  m_Label: Cube Ring 1
   m_Data: {fileID: 8926484042661615013}
   m_InputFlowSlot:
   - link:
@@ -27157,7 +27157,7 @@ MonoBehaviour:
   - {fileID: 8926484042661616866}
   - {fileID: 8926484042661616867}
   m_OutputSlots: []
-  m_Label: Inside Cube Ring
+  m_Label: Inside Cube Ring 2
   m_Data: {fileID: 8926484042661616820}
   m_InputFlowSlot:
   - link:
@@ -28041,7 +28041,7 @@ MonoBehaviour:
   - {fileID: 8926484042661616905}
   - {fileID: 8926484042661616906}
   m_OutputSlots: []
-  m_Label: Cube Ring
+  m_Label: Cube Ring 2
   m_Data: {fileID: 8926484042661616820}
   m_InputFlowSlot:
   - link:
@@ -35034,7 +35034,7 @@ MonoBehaviour:
   - {fileID: 8926484042661617104}
   - {fileID: 8926484042661617105}
   m_OutputSlots: []
-  m_Label: Inside Cube Ring
+  m_Label: Inside Cube Ring 3
   m_Data: {fileID: 8926484042661617058}
   m_InputFlowSlot:
   - link:
@@ -35918,7 +35918,7 @@ MonoBehaviour:
   - {fileID: 8926484042661617143}
   - {fileID: 8926484042661617144}
   m_OutputSlots: []
-  m_Label: Cube Ring
+  m_Label: Cube Ring 3
   m_Data: {fileID: 8926484042661617058}
   m_InputFlowSlot:
   - link:
