@@ -125,18 +125,6 @@ MonoBehaviour:
     - model: {fileID: 8926484042661616410}
       id: 0
       isStickyNote: 0
-    - model: {fileID: 8926484042661614901}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614920}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614923}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614981}
-      id: 0
-      isStickyNote: 0
     - model: {fileID: 8926484042661616433}
       id: 0
       isStickyNote: 0
@@ -9707,7 +9695,7 @@ MonoBehaviour:
   - {fileID: 8926484042661615186}
   m_ExposedName: Ring1_Cores
   m_Exposed: 1
-  m_Order: 1
+  m_Order: 5
   m_Category: Ring
   m_Min:
     m_Type:
@@ -9791,7 +9779,7 @@ MonoBehaviour:
   - {fileID: 8926484042661615188}
   m_ExposedName: Ring1_Size
   m_Exposed: 1
-  m_Order: 4
+  m_Order: 10
   m_Category: Ring
   m_Min:
     m_Type:
@@ -19289,7 +19277,7 @@ MonoBehaviour:
   - {fileID: 8926484042661616088}
   m_ExposedName: PosShapeRad
   m_Exposed: 1
-  m_Order: 2
+  m_Order: 7
   m_Category: FloorCube
   m_Min:
     m_Type:
@@ -21333,7 +21321,7 @@ MonoBehaviour:
   - {fileID: 8926484042661616402}
   m_ExposedName: BothCoreLifetime
   m_Exposed: 1
-  m_Order: 1
+  m_Order: 6
   m_Category: Core
   m_Min:
     m_Type:
@@ -21855,7 +21843,7 @@ MonoBehaviour:
   - {fileID: 8926484042661616444}
   m_ExposedName: CubeExpandProgess
   m_Exposed: 1
-  m_Order: 0
+  m_Order: 1
   m_Category: Core
   m_Min:
     m_Type:
@@ -22106,7 +22094,7 @@ MonoBehaviour:
   - {fileID: 8926484042661616645}
   m_ExposedName: Ring2_Cores
   m_Exposed: 1
-  m_Order: 2
+  m_Order: 8
   m_Category: Ring
   m_Min:
     m_Type:
@@ -22178,7 +22166,7 @@ MonoBehaviour:
   - {fileID: 8926484042661616647}
   m_ExposedName: Ring3_Cores
   m_Exposed: 1
-  m_Order: 3
+  m_Order: 9
   m_Category: Ring
   m_Min:
     m_Type:
@@ -22250,7 +22238,7 @@ MonoBehaviour:
   - {fileID: 8926484042661616649}
   m_ExposedName: Ring2_Size
   m_Exposed: 1
-  m_Order: 5
+  m_Order: 11
   m_Category: Ring
   m_Min:
     m_Type:
@@ -22322,7 +22310,7 @@ MonoBehaviour:
   - {fileID: 8926484042661616651}
   m_ExposedName: Ring3_Size
   m_Exposed: 1
-  m_Order: 6
+  m_Order: 12
   m_Category: Ring
   m_Min:
     m_Type:
@@ -22394,7 +22382,7 @@ MonoBehaviour:
   - {fileID: 8926484042661616659}
   m_ExposedName: Ring1_Progress
   m_Exposed: 1
-  m_Order: 0
+  m_Order: 2
   m_Category: Ring
   m_Min:
     m_Type:
@@ -22511,7 +22499,7 @@ MonoBehaviour:
   - {fileID: 8926484042661616661}
   m_ExposedName: Ring2_Progress
   m_Exposed: 1
-  m_Order: 0
+  m_Order: 3
   m_Category: Ring
   m_Min:
     m_Type:
@@ -22583,7 +22571,7 @@ MonoBehaviour:
   - {fileID: 8926484042661616663}
   m_ExposedName: Ring3_Progress
   m_Exposed: 1
-  m_Order: 0
+  m_Order: 4
   m_Category: Ring
   m_Min:
     m_Type:
