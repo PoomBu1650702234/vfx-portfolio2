@@ -12,10 +12,9 @@ Material:
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
-  - _ALPHAPREMULTIPLY_ON
-  - _RECEIVE_SHADOWS_OFF
   - _SURFACE_TYPE_TRANSPARENT
-  m_InvalidKeywords: []
+  m_InvalidKeywords:
+  - _RECEIVE_SHADOWS_OFF
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -39,6 +38,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _ParallaxOcclusionMapping_6fc4d32bbbdd40a8916b77612b048cbc_Heightmap_2_Texture2D:
         m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxOcclusionMapping_b5e416e88b6b44b7b8de245c8246c925_Heightmap_2_Texture2D:
+        m_Texture: {fileID: 2800000, guid: e0ce629e6eb98b748bb6a934e62d337b, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SampleReflectedCubemap_1088daf5e4214381aaaa695263c45ac1_Cube_1_Cubemap:
@@ -82,11 +85,13 @@ Material:
     - _Float: 22.18
     - _HeightSTR: 16.12
     - _NoiseScale: 15.16
+    - _Parallax_Amplitude: 0
+    - _Parallax_Step: 0
     - _QueueControl: 1
     - _QueueOffset: 0
     - _ReceiveShadows: 0
     - _SmoothStep_Edge1: 0.69
-    - _SrcBlend: 1
+    - _SrcBlend: 5
     - _Surface: 1
     - _WorkflowMode: 1
     - _ZTest: 4
@@ -100,6 +105,7 @@ Material:
     - _Color2: {r: 0, g: 0, b: 0, a: 0}
     - _DepthColor: {r: 194.70888, g: 32.223515, b: 253.01424, a: 0}
     - _OutSideDomainColor: {r: 0.16037735, g: 0.16037735, b: 0.16037735, a: 0}
+    - _Tiling: {r: 0, g: 0, b: 0, a: 0}
     - _Vector3: {r: 1, g: -0.61, b: 1, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
