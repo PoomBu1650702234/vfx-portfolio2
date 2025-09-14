@@ -41,6 +41,14 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - _SampleTexture2D_5cff61f6c5284069baca092b982bd484_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 3a6cbdabd9af43a4bada041bcc941df6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_f53d12009f454e4a95555b58a93df162_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 238aeea319c00b946a240c08a96ea66e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -61,6 +69,7 @@ Material:
     - _Blend: 2
     - _CastShadows: 0
     - _Cull: 0
+    - _Disslove01: 0
     - _DstBlend: 1
     - _QueueControl: 0
     - _QueueOffset: 0
@@ -74,6 +83,7 @@ Material:
     - _ZWrite: 0
     - _ZWriteControl: 0
     m_Colors:
+    - _45DegSquareCol: {r: 55.71524, g: 0, b: 0, a: 1}
     - _Edge_Color: {r: 0.11957128, g: 1.8883, b: 5.069823, a: 1}
     - _TriCol: {r: 0, g: 13.220524, b: 55.06544, a: 1}
   m_BuildTextureStacks: []
