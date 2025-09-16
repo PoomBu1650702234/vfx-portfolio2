@@ -209,24 +209,6 @@ MonoBehaviour:
     - model: {fileID: 8926484042661616410}
       id: 11
       isStickyNote: 0
-    - model: {fileID: 8926484042661619688}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661619691}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661619694}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661619719}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661619732}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661619726}
-      id: 0
-      isStickyNote: 0
     - model: {fileID: 8926484042661619899}
       id: 0
       isStickyNote: 0
@@ -476,9 +458,6 @@ MonoBehaviour:
     - model: {fileID: 8926484042661615903}
       id: 0
       isStickyNote: 0
-    - model: {fileID: 0}
-      id: 0
-      isStickyNote: 0
     - model: {fileID: 8926484042661619173}
       id: 0
       isStickyNote: 0
@@ -510,9 +489,6 @@ MonoBehaviour:
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661619187}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661619194}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661619215}
@@ -17047,7 +17023,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 100
+      m_SerializableObject: 80.8
     m_Space: -1
   m_Property:
     name: newRangeMax
@@ -50714,7 +50690,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 100
+      m_SerializableObject: 80
     m_Space: -1
   m_Property:
     name: newRangeMax
