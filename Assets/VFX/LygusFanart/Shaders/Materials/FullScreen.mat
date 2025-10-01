@@ -39,7 +39,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _Float: -43.3
-    - _ImpactFrame: 0
+    - _ImpactFrame: 1
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:

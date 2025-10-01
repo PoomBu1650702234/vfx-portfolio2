@@ -515,7 +515,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Color, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"r":0.0,"g":18.746139526367189,"b":25.99207305908203,"a":0.0}'
+      m_SerializableObject: '{"r":0.0,"g":48.89440155029297,"b":67.79352569580078,"a":0.0}'
     min: -Infinity
     max: Infinity
     enumValues: []
@@ -14158,7 +14158,8 @@ MonoBehaviour:
     - outputSlot: {fileID: 8926484042661616285}
       inputSlot: {fileID: 8926484042661616429}
     position: {x: 4706, y: 2663}
-    expandedSlots: []
+    expandedSlots:
+    - {fileID: 8926484042661616285}
     expanded: 1
     supecollapsed: 0
 --- !u!114 &8926484042661616285
@@ -14190,7 +14191,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Color, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"r":0.0,"g":18.746139526367189,"b":25.99207305908203,"a":0.0}'
+      m_SerializableObject: '{"r":0.0,"g":48.89440155029297,"b":67.79352569580078,"a":0.0}'
     m_Space: -1
   m_Property:
     name: o
