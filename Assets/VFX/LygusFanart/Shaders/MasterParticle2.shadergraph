@@ -55,9 +55,6 @@
             "m_Id": "097ae28e917d4f07b999f69435e7adfa"
         },
         {
-            "m_Id": "3d791be429964a99aeb926d821920284"
-        },
-        {
             "m_Id": "c0ef6db09a7c4025b363aee5c2d6f19b"
         },
         {
@@ -110,6 +107,9 @@
         },
         {
             "m_Id": "7b8dd29d85f84ed5810285b17fabbcc9"
+        },
+        {
+            "m_Id": "6c529252b562407b806a86d21b2b74ff"
         }
     ],
     "m_GroupDatas": [
@@ -419,7 +419,7 @@
                 "m_Id": "097ae28e917d4f07b999f69435e7adfa"
             },
             {
-                "m_Id": "3d791be429964a99aeb926d821920284"
+                "m_Id": "6c529252b562407b806a86d21b2b74ff"
             }
         ]
     },
@@ -709,8 +709,8 @@
     "m_ObjectId": "1e7acbe7bba34a2e9134f0b551f6e454",
     "m_Title": "Texture",
     "m_Position": {
-        "x": -91.00004577636719,
-        "y": -38.0
+        "x": -90.99999237060547,
+        "y": -37.99994659423828
     }
 }
 
@@ -1063,40 +1063,6 @@
         "m_SerializableColors": []
     },
     "m_SerializedDescriptor": "VertexDescription.Tangent"
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.BlockNode",
-    "m_ObjectId": "3d791be429964a99aeb926d821920284",
-    "m_Group": {
-        "m_Id": ""
-    },
-    "m_Name": "SurfaceDescription.AlphaClipThreshold",
-    "m_DrawState": {
-        "m_Expanded": true,
-        "m_Position": {
-            "serializedVersion": "2",
-            "x": 0.0,
-            "y": 0.0,
-            "width": 0.0,
-            "height": 0.0
-        }
-    },
-    "m_Slots": [
-        {
-            "m_Id": "d15f51401b754ba4858b3ace3e1fcbc3"
-        }
-    ],
-    "synonyms": [],
-    "m_Precision": 0,
-    "m_PreviewExpanded": true,
-    "m_DismissedVersion": 0,
-    "m_PreviewMode": 0,
-    "m_CustomColors": {
-        "m_SerializableColors": []
-    },
-    "m_SerializedDescriptor": "SurfaceDescription.AlphaClipThreshold"
 }
 
 {
@@ -1592,6 +1558,40 @@
 
 {
     "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.BlockNode",
+    "m_ObjectId": "6c529252b562407b806a86d21b2b74ff",
+    "m_Group": {
+        "m_Id": ""
+    },
+    "m_Name": "SurfaceDescription.AlphaClipThreshold",
+    "m_DrawState": {
+        "m_Expanded": true,
+        "m_Position": {
+            "serializedVersion": "2",
+            "x": 0.0,
+            "y": 0.0,
+            "width": 0.0,
+            "height": 0.0
+        }
+    },
+    "m_Slots": [
+        {
+            "m_Id": "851fc967871e48738e47872ad90873d9"
+        }
+    ],
+    "synonyms": [],
+    "m_Precision": 0,
+    "m_PreviewExpanded": true,
+    "m_DismissedVersion": 0,
+    "m_PreviewMode": 0,
+    "m_CustomColors": {
+        "m_SerializableColors": []
+    },
+    "m_SerializedDescriptor": "SurfaceDescription.AlphaClipThreshold"
+}
+
+{
+    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
     "m_ObjectId": "6d2c391d92274ca99242df7a4c91d979",
     "m_Group": {
@@ -1824,6 +1824,21 @@
         "x": 0.0,
         "y": 0.0
     },
+    "m_Labels": []
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
+    "m_ObjectId": "851fc967871e48738e47872ad90873d9",
+    "m_Id": 0,
+    "m_DisplayName": "Alpha Clip Threshold",
+    "m_SlotType": 0,
+    "m_Hidden": false,
+    "m_ShaderOutputName": "AlphaClipThreshold",
+    "m_StageCapability": 2,
+    "m_Value": 0.5,
+    "m_DefaultValue": 0.5,
     "m_Labels": []
 }
 
@@ -2442,8 +2457,8 @@
     "m_ObjectId": "ca7d2c1889b4492199e64ec9e3704cd0",
     "m_Title": "Mask",
     "m_Position": {
-        "x": 346.0,
-        "y": 666.0000610351563
+        "x": 346.00006103515627,
+        "y": 665.9999389648438
     }
 }
 
@@ -2475,21 +2490,6 @@
         "b": 0.5,
         "a": 1.0
     }
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
-    "m_ObjectId": "d15f51401b754ba4858b3ace3e1fcbc3",
-    "m_Id": 0,
-    "m_DisplayName": "Alpha Clip Threshold",
-    "m_SlotType": 0,
-    "m_Hidden": false,
-    "m_ShaderOutputName": "AlphaClipThreshold",
-    "m_StageCapability": 2,
-    "m_Value": 0.5,
-    "m_DefaultValue": 0.5,
-    "m_Labels": []
 }
 
 {
