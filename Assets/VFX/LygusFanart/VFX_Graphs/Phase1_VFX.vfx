@@ -747,14 +747,6 @@ MonoBehaviour:
     - model: {fileID: 8926484042661616650}
       id: 0
       isStickyNote: 0
-  - title: New Group Node
-    position:
-      serializedVersion: 2
-      x: 7277
-      y: -1964
-      width: 215
-      height: 84
-    contents: []
   stickyNoteInfos: []
   categories:
   - name: Core
@@ -5866,7 +5858,7 @@ MonoBehaviour:
   - {fileID: 8926484042661615059}
   - {fileID: 8926484042661616674}
   - {fileID: 8926484042661615063}
-  m_UIPosition: {x: 5307, y: -241}
+  m_UIPosition: {x: 5304, y: -288}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots:
@@ -19941,7 +19933,7 @@ MonoBehaviour:
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 114350483966674976}
   m_Children: []
-  m_UIPosition: {x: 5715, y: 256}
+  m_UIPosition: {x: 5680, y: 269}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots:
@@ -49273,7 +49265,7 @@ MonoBehaviour:
   - {fileID: 8926484042661619063}
   - {fileID: 8926484042661619187}
   dataType: 0
-  capacity: 2000
+  capacity: 100
   stripCapacity: 1
   particlePerStripCount: 32
   needsComputeBounds: 0
@@ -70100,7 +70092,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Color, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"r":1.0,"g":1.0,"b":1.0,"a":0.0}'
+      m_SerializableObject: '{"r":5.992157459259033,"g":0.0,"b":0.0,"a":0.0}'
     m_Space: -1
   m_Property:
     name: _Color
@@ -70645,7 +70637,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Color, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"r":1.0,"g":1.0,"b":1.0,"a":0.0}'
+      m_SerializableObject: '{"r":7.464264392852783,"g":0.0,"b":0.0,"a":0.0}'
     m_Space: -1
   m_Property:
     name: _Color
