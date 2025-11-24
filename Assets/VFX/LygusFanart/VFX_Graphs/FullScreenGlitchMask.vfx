@@ -40,7 +40,7 @@ MonoBehaviour:
     x: 172
     y: -1433
     width: 1154
-    height: 2145
+    height: 2269
 --- !u!114 &114350483966674976
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1981,8 +1981,7 @@ MonoBehaviour:
       m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
         PublicKeyToken=b77a5c561934e089
   m_Direction: 1
-  m_LinkedSlots:
-  - {fileID: 8926484042661614921}
+  m_LinkedSlots: []
 --- !u!114 &8926484042661614902
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2455,8 +2454,7 @@ MonoBehaviour:
       m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
         PublicKeyToken=b77a5c561934e089
   m_Direction: 0
-  m_LinkedSlots:
-  - {fileID: 8926484042661614901}
+  m_LinkedSlots: []
 --- !u!114 &8926484042661614922
 MonoBehaviour:
   m_ObjectHideFlags: 0

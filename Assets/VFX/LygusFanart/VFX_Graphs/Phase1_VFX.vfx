@@ -20211,7 +20211,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 0
+      m_SerializableObject: 4.4
     m_Space: -1
   m_Property:
     name: newRangeMin
@@ -20245,7 +20245,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 60
+      m_SerializableObject: 75.8
     m_Space: -1
   m_Property:
     name: newRangeMax
@@ -20455,7 +20455,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 0
+      m_SerializableObject: 87.36
     m_Space: -1
   m_Property:
     name: newRangeMin
@@ -20489,7 +20489,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 360
+      m_SerializableObject: 347.4
     m_Space: -1
   m_Property:
     name: newRangeMax
@@ -28772,7 +28772,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: -90
+      m_SerializableObject: -15.3
     m_Space: -1
   m_Property:
     name: newRangeMin
@@ -28806,7 +28806,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: -45
+      m_SerializableObject: -74.8
     m_Space: -1
   m_Property:
     name: newRangeMax
@@ -29016,7 +29016,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 0
+      m_SerializableObject: -59.5
     m_Space: -1
   m_Property:
     name: newRangeMin
@@ -29050,7 +29050,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: -180
+      m_SerializableObject: 22.18
     m_Space: -1
   m_Property:
     name: newRangeMax
@@ -36683,7 +36683,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: -60
+      m_SerializableObject: -57.8
     m_Space: -1
   m_Property:
     name: newRangeMax
